@@ -1,1 +1,1 @@
-# pyhton2
+# python 2
